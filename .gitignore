@@ -1,0 +1,18 @@
+# Ziggui Project
+# 
+# Cross Platform Zig based Graphics and GUI library
+# 
+# v0.0.1
+# 
+# .gitignore
+# 
+# 26.12.23
+# 
+# @arl0arg3nt
+# 
+# GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+# 
+# Copyright © 2007 Free Software Foundation, Inc. https://fsf.org/
+
+zig-cache/
+zig-out/

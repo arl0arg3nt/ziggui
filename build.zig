@@ -1,18 +1,18 @@
-/*
-* Ziggui Project
-* 
-* v0.0.1
-* 
-* build.zig
-* 
-* 26.12.23
-* 
-* arl0arg3nt
-* 
-* GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
-* 
-* Copyright © 2007 Free Software Foundation, Inc. https://fsf.org/
-*/
+//
+// Ziggui Project
+// 
+// v0.0.1
+// 
+// build.zig
+// 
+// 26.12.23
+// 
+// arl0arg3nt
+// 
+// GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+// 
+// Copyright © 2007 Free Software Foundation, Inc. https://fsf.org/
+//
 
 const std = @import("std");
 

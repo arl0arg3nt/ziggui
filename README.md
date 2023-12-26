@@ -15,15 +15,15 @@ This Project is early in development and is lacking functionality. A v0.1.0 rele
 - Window Management
     - Windows
     - Mac
-    - X11
 - OpenGL Graphics API
-- TBC - Metal Graphics API
+- Metal Graphics API
 - GUI
 
 ### Later Versions 
 
 - Window Management
     - Wayland
+    - X11
 - Graphics API Intergration
     - Vulkan
     - DirectX 11/12

@@ -1,13 +1,27 @@
+//
+// Ziggui Project
+// 
+// v0.0.1
+// 
+// {file_name}
+// 
+// {file.creation.date}
+// 
+// {file_name}
+// 
+// GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+// 
+// Copyright © 2007 Free Software Foundation, Inc. https://fsf.org/
+//
+
 /*
 * Ziggui Project
-* 
-* Cross Platform Zig based Graphics and GUI library
 * 
 * v0.0.1
 * 
 * {file_name}
 * 
-* {file_creation_date}
+* {file.creation.date}
 * 
 * {file_author}
 * 
@@ -20,13 +34,11 @@
 
 # Ziggui Project
 # 
-# Cross Platform Zig based Graphics and GUI library
-# 
 # v0.0.1
 # 
 # {file_name}
 # 
-# {file_creation_date}
+# {file.creation.date}
 # 
 # {file_author}
 # 

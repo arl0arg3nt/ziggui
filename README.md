@@ -4,7 +4,7 @@ Ziggui is to be an Open Source, cross-platform Graphics and GUI library written 
 
 ## WARNING
 
-This Project is early in development and is lacking functionality. A v0.1.0 release is targeted for late 2024
+This Project is early in development and is lacking functionality. A v0.1.0 release is targeted for 2025
 
 ## Roadmap 
 
